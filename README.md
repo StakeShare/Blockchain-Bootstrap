@@ -7,7 +7,9 @@ This folder allows you to download the Blockchain directly and load it faster.
 This repository is regularly updated.
 
 [Download Blockchain 20203020](https://mega.nz/#!6I5jAQ6S!gDqg9WwwGfDH225x_iqnYsMyqJt4vd7V23Eb4wVGZS4)
-[Download Blockchain 20200427]
+
+[Download Blockchain 20200427](https://mega.nz/file/HI4FxITL#_ItSWwHqWsQ9jBKFNG01xvMaw0LuRHQ_ij9XAo79CRo)
+
 ## Steps
 
 1. Close your wallet and download the file.
