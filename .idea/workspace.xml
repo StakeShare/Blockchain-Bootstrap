@@ -12,6 +12,9 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZiDDqN57X6i02i7Xfz4Ldj5sox" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -21,7 +24,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StakeShare-Wallet" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,6 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585312903965</updated>
       <workItem from="1585312905762" duration="24000" />
+      <workItem from="1585314468057" duration="608000" />
     </task>
     <servers />
   </component>
@@ -41,9 +51,13 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1585312906450">
+    <state x="751" y="273" width="424" height="484" key="FileChooserDialogImpl" timestamp="1585321980740">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="624" y="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585312906450" />
+    <state x="751" y="273" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585321980740" />
+    <state x="624" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1585314467650">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="624" y="343" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585314467650" />
   </component>
 </project>

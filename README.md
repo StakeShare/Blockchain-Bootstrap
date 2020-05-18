@@ -1,22 +1,23 @@
-# StakeShare Blockchain Bootstrap 
+# StakeShare Tutorial - Blockchain Bootstrap 
 
 ## Description
 
-This folder allows you to download the Blockchain directly and load it faster.
+This folder allows you to download the Blockchain directly and load it faster,
 
-This repository is regularly updated.
+This repository is regularly updated, download `.zip` on this page,
 
-[Download Blockchain](https://mega.nz/#!6I5jAQ6S!gDqg9WwwGfDH225x_iqnYsMyqJt4vd7V23Eb4wVGZS4)
+[Download Blockchain](https://bootstrap.stakeshare.org/)
 
 ## Steps
 
-1. Close your wallet and download the file.
+1. Close your wallet.
 2. Go to the installation folder of your wallet `C:\Users\YourUserName\Appdata\Roaming\StakeShare`.
 (Windows Vista, Windows 7, Windows 8 / 8.1 et Windows 10)
-3. Replace the folder and file of the same name with those to download.
+3. Replace the files in the folder with those in the download `.zip` file,
+these are the `peers.dat` file, `blocks` folder and `chainstate` folder,
 4. Re-launch the wallet.
 
 ## Ressources / Help
 
-- [Discord](localhost:8000/)
+- [Discord](https://discord.gg/sjhpWsS)
 - stakesharessx@gmail.com
